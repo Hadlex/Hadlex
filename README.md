@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hello world or smth
+I don't have enough knowledge to make a fancy profile, but i'll learn some day.
+
+# I'm Hadlex
+I speak Spanish and English, i play videogames, watch anime, streams and use Discord everyday.
+I'm a Programming and Graphic Design trainee and i'm learning (Slow af because i'm extremely lazy) how to do stuff.
+I'm part of the <a href="https://github.com/PreMiD">PreMiD</a> team as Moderator, Support Agent and Translations proofreader to Spanish.
+
+## Contact me
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/299265463131832340)](https://discord.com/users/299265463131832340)
 
 <!--
 **Hadlex/Hadlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
